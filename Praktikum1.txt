@@ -1,3 +1,3 @@
 Muhammad Rafi : G.231.20.0141 : Semarang
 Mata Kuliah : Open Source System
-Catatn : Praktikum dengan menggunakan GIT
+Catatan : Praktikum dengan menggunakan GIT
